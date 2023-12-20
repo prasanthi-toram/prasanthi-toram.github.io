@@ -1,7 +1,9 @@
 # prasanthi-toram.github.io
 # Prasanthi Mounika Toram
 
-📧 [prasanthi.fall23@gmail.com](mailto:prasanthi.fall23@gmail.com) | 📞 +1 404-203-8586
+📧 [prasanthi.fall23@gmail.com](mailto:prasanthi.fall23@gmail.com) | 📞 +1 404-203-8586 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/prasanthimounika-toram/)
+
+Greetings! I'm Prasanthi Mounika Toram, an avid data enthusiast currently pursuing Computational Data Analytics at the Georgia Institute of Technology.
 
 ## Education
 - **Georgia Institute of Technology** *(Aug. 2023 - Dec. 2024)*
